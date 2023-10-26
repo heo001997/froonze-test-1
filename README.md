@@ -2,7 +2,7 @@
 
 ### This is my thought process: https://foul-sovereign-1c2.notion.site/Frooze-Test-1-f366e21f3f8f471180f70fbb503adc4c
 
- I tried to refactor the service, and re-test with 100 pass coverage. Execept this time, I don't try to refactor without permission, don't worry 😅.
+ I tried to refactor the service, and re-test with 100% pass coverage. Execept this time, I don't try to refactor without permission, don't worry 😅.
 
 ### Coverage:
 
